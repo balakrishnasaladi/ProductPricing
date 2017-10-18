@@ -1,0 +1,13 @@
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+	<bean id="parser" class="co.uk.ecommerce.entity.ProductParser" />
+	<bean id="cartEvaluation" class="co.uk.ecommerce.CartEvaluation" />
+	<bean id="cart" class = "co.uk.ecommerce.Cart" >
+	</bean>
+	<bean id="inputFeeds" class=" co.uk.ecommerce.loader.InputFeeds">
+		<property name="parser" ref="parser" />
+	</bean>
+
+</beans>

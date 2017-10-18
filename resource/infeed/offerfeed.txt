@@ -1,0 +1,2 @@
+PercentOff,10%Offer on Trousers,16-10-2017,22-10-2017,Trousers,10,,0
+PercentOff,50%Offer on Tie when bought 2 shirts,16-10-2017,22-10-2017,Tie,50,shirt,2

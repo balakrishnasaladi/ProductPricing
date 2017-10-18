@@ -1,0 +1,4 @@
+Peter England trousers,trousers,16-10-2017,22-10-2017,35.50
+John lewis tie,tie,16-10-2017,22-10-2017,9.50
+bhs shirt,shirt,16-10-2017,22-10-2017,12.50
+Zara jacket,jacket,16-10-2017,22-10-2017,49.90
